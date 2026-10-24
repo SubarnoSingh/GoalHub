@@ -1,0 +1,48 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the local build only
+/local.properties
+/.idea
+/.vscode
+/.gradle
+/build/
+
+# Local configuration file (sdk path)
+local.properties
+
+# Idea specific files
+./*.iml
+/*.iws
+/*.ipch
+
+# Covers the contents of target and output directories
+captures/
+
+# .DS_Store OS-X junk
+.DS_Store
+
+# Mac OS X cache files
+osx/
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# logging
+*.log
+
+# JavaScript specific
+node_modules/
+
+# Coverage directory used by instrumentation tests
+coverage/
+
+# ctags
+/tags
+
+# OS-specific
+/.config/
+
+# Secret/credential files
+secrets/
